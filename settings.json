@@ -1,0 +1,36 @@
+{
+    "_comment": "put this in User Settings (JSON) ;D",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.showTabs": "single",
+    "breadcrumbs.filePath": "last",
+    "breadcrumbs.enabled": false,
+    "breadcrumbs.symbolPath": "on",
+    "workbench.activityBar.location": "hidden",
+    "workbench.startupEditor": "none",
+    "workbench.colorTheme": "Andromeda",
+    "workbench.tips.enabled": false,
+    "editor.minimap.enabled": false,
+    "workbench.sideBar.location": "right",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.tree.enableStickyScroll": false,
+    "workbench.tree.renderIndentGuides": "none",
+    "editor.scrollbar.horizontal": "hidden",
+    "editor.scrollbar.vertical": "hidden",
+    "editor.renderWhitespace": "none",
+    "editor.renderLineHighlight": "none",
+    "editor.selectionHighlight": false,
+    "workbench.tree.indent": 16,
+    "explorer.compactFolders": false,
+    "git.decorations.enabled": false,
+    "window.zoomLevel": 1,
+
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
+    },
+
+    "svelte.enable-ts-plugin": true,
+    "hoi4ModUtilities.installPath": "c:\\Program Files (x86)\\Steam\\steamapps\\common\\Hearts of Iron IV"
+}
