@@ -3,7 +3,6 @@
 This repository contains my personal **Visual Studio Code settings**.
 You can copy the provided configuration into your `settings.json` file to replicate my editor setup.
 
----
 
 ## Features
 
